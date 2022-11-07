@@ -1,3 +1,5 @@
+package Hewan;
+
 class Anjing extends Hewan {
     
     @Override

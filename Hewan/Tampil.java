@@ -1,3 +1,5 @@
+package Hewan;
+
 public class Tampil {
  
     public static void main (String[] args) {

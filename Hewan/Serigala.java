@@ -1,3 +1,5 @@
+package Hewan;
+
 class Serigala extends Hewan {
  
     @Override

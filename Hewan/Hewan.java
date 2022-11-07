@@ -1,3 +1,5 @@
+package Hewan;
+
 abstract class Hewan {
   
     protected abstract void munculSuara();
